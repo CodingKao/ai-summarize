@@ -1,8 +1,18 @@
 # AI Summarize
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The AI Summarize App harnesses OpenAI GPT-4's power to revolutionize article consumption. Simply copy and paste an article link, and the app generates concise and accurate summaries, saving you time and effort.
 
-Currently, two official plugins are available:
+## Technologies Used:
+- JavaScript
+- React
+- Vitejs
+- Rapid API
+- Tailwind CSS
+- React Icons
+- OpenAI API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Resources:
+- [Vite](hhttps://vitejs.dev/guide/) 
+- [Tailwind CSS](https://tailwindcss.com/docs/installation/using-postcss)
+- [RapidAPI](https://rapidapi.com/)
+
