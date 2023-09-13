@@ -12,7 +12,7 @@ The AI Summarize App harnesses OpenAI GPT-4's power to revolutionize article con
 - OpenAI API
 
 ## Resources:
-- [JavaScript Mastery Youtube Tutorial]([Vite](hhttps://vitejs.dev/guide/) ) 
+- [JavaScript Mastery Youtube Tutorial](https://www.youtube.com/watch?v=vpvtZZi5ZWk) 
 - [Vite](https://vitejs.dev/guide/) 
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-postcss)
 - [RapidAPI](https://rapidapi.com/)
