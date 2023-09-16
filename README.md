@@ -10,6 +10,7 @@ The AI Summarize App harnesses OpenAI GPT-4's power to revolutionize article con
 - Tailwind CSS
 - React Icons
 - OpenAI API
+- Netlify
 
 ## Resources:
 - [JavaScript Mastery Youtube Tutorial](https://www.youtube.com/watch?v=vpvtZZi5ZWk) 
