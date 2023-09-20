@@ -29,7 +29,7 @@ const Demo = () => {
 
     if(data?.summary) {
       const newArticle = { ...article, summary: data.summary };
-      const updatedAllArticle = [newArticle, ...allArticles];
+      const updatedAllArticles = [newArticle, ...allArticles];
 
       setArticle(newArticle);
       setAllArticles(updatedAllArticles);
