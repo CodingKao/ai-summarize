@@ -10,6 +10,7 @@ const Demo = () => {
   });
 
   const [allArticles, setAllArticles] = useState([]);
+  const [copied, setCopied] = useState("");
 
   const [getSummary, { error, isFetching }] = useLazyGetSummaryQuery();
 
@@ -37,6 +38,10 @@ const Demo = () => {
       localStorage.setItem('articles', JSON.stringify(updatedAllArticles));
     }
   }
+
+  const handleCopy = (copyURL) => {
+    setCopied(copyURL);
+    navigator.clipboard.writeText(copyURL);
 
   return (
     <section className="mt-16 w-full max-w-xl">
